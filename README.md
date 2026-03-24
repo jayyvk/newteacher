@@ -10,6 +10,8 @@ It combines:
 
 The result is a teacher that explains topics at a child's level, answers follow-up questions in conversation, and connects classroom lessons to what is happening in the real world.
 
+https://github.com/user-attachments/assets/23dd8c50-835b-4d4e-8c64-5d716b822bc4
+
 ## Problem
 
 Children often learn from static textbooks that go out of date quickly. Even when the fundamentals are still correct, the examples, world context, and applications can feel disconnected from the present.
